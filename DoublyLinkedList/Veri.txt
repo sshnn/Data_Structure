@@ -1,0 +1,16 @@
+E(4#mehmet)  
+E(2#ece)
+E(3#ali)
+E(1#sadik)
+E(2#seda)
+S(4)
+E(5#guven)
+E(1#furkan)
+S(2)
+
+
+
+
+
+
+
