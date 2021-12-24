@@ -1,6 +1,5 @@
 #include "fileReader.hpp"
 #include <fstream>
-#include <fstream>
 
 using namespace std;
 
@@ -65,4 +64,5 @@ void File::FileRead(DoublyLinkedList x, Data y, Node** head, string fileName )
       del = "";
     }
   }
+  file.close();
 }
